@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-matplotlib
-plotly
-yfinance
-beautifulsoup4
-urllib3
-pandas_datareader
